@@ -19,7 +19,9 @@ Where ```BASE_URL ``` is the root URL of the website we want to crawl.
 
 report.py: This file will house our functions that will generate the internal linking report 
 that we'll eventually be printing to the console for our users. 
+
 test_report.py: Test class to test the functionality of report.py 
+
 crawl.py that takes a string of HTML as input and returns a list of all the link URLs.
 
 Dependencies: defined in ```requirements.txt ```
