@@ -10,6 +10,7 @@ IDE used: PyCharm CE
 Python version: Python3 
 
 File structure:
+
 main.py: Our final program will be called on the command line in the following way:
 ```
 python3 main.py BASE_URL
